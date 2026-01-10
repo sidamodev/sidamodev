@@ -55,8 +55,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidamodev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidamodev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sidamodev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sidamodev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
