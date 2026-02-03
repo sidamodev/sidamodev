@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=250&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Jin-o%20Choi&descAlignY=55&descAlign=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Frontend+%26+Solution+Engineer;Building+Scalable+Architecture;Brewing+Code+%26+Specialty+Coffee;SSAFY+11th+Python+Track" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Solution+Engineer+%26+Problem+Solver;Stable+System+Architecture;Docker+%26+Data+Integration;Full-stack+Troubleshooting" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,12 +10,12 @@
 
 ### ☕ About Me
 
-> **"깊이 있는 맛을 내는 커피처럼, 깊이 있는 설계를 지향합니다."**
+> **"견고한 인프라 위에서 흐르는 데이터의 가치를 믿습니다."**
 
-안녕하세요! 사용자 경험(UX)과 안정적인 시스템 아키텍처 사이의 균형을 고민하는 개발자 **최진오**입니다.  
-**SSAFY 11기**에서 Python 기반의 백엔드와 최신 프론트엔드 기술을 익혔으며, 현재는 **Next.js**와 **TypeScript** 생태계에 깊은 관심을 가지고 있습니다. 단순히 기능이 돌아가는 것에 그치지 않고 **'왜(Why)'**라는 질문을 던지며 코드를 작성합니다.
+안녕하세요! 시스템의 안정적인 운영(Stability)과 효율적인 데이터 처리를 고민하는 엔지니어 **최진오**입니다.  
+**SSAFY 11기**에서 Python 기반의 백엔드 개발과 인프라 구축 경험을 쌓았으며, 프론트엔드 기술(React/TS)까지 두루 갖추어 **시스템의 End-to-End 흐름을 파악하는 데 강점**이 있습니다. 단순히 기능 구현을 넘어, 현장에서 발생하는 기술적 문제를 진단하고 해결(Troubleshooting)하는 과정을 즐깁니다.
 
-- 🔭 I’m currently working on **Next.js & Frontend Architecture**
+- 🔭 I’m currently working on **Docker Optimization & System Architecture**
 - ☕ I enjoy **Specialty Coffee** 
 - 🎓 **SSAFY** 11th Generation (Python Track)
 
@@ -25,26 +25,21 @@
 
 <div align="center">
 
-**Languages**  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Frontend**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"/>
-
 **Backend & Infra**  
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
-**Tools**  
+**Frontend & Client**  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+**Tools & Collaboration**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
